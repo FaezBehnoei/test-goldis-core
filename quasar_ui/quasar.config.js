@@ -146,7 +146,7 @@ export default defineConfig((/* ctx */) => {
     pwa: {
       workboxMode: 'GenerateSW' ,// 'GenerateSW' or 'InjectManifest'
       metaVariables: {
-        theme_color: '#ff6600' // رنگ دلخواه
+        theme_color: '#FFFFFF' // رنگ دلخواه
       }
       // swFilename: 'sw.js',
       // manifestFilename: 'manifest.json',
