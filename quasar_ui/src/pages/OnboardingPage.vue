@@ -17,7 +17,7 @@ import { useRouter } from 'vue-router';
 const router = useRouter()
 
 function PushToLogin(){
-  router.push('/auth/login')
+  router.push('/home')
 }
 function PushToRegister(){
   router.push('/auth/sign-up')
